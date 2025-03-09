@@ -5,12 +5,12 @@ Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <p>🎓 **Bsc in Computer Science & Engineering Student** at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/)</p>
 <p>💻 Passionate about **Backend Development**, **C#**, **Data Science**, **Python**, **PHP**, and **Web Development** .</p>
-<p>🚀 Always exploring new technologies and expanding my knowledge </p>
-========================================================================================================
-Emails:
+<p>🚀 Always exploring new technologies and expanding my knowledge </p> 
+
+## Emails:
 <p>✉️  You can contact me at [20-43489-1@student.aiub.edu](mailto:20-43489-1@student.aiub.edu)</p> 
 <p>✉️  You can contact me at [sayed.alif1999@gmail.com](mailto:sayed.alif1999@gmail.com)</p>
-========================================================================================================
+
 ### Social:
 <p align="left"> <a href="https://www.facebook.com/sayed.alif0178/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sayed-alif-7660a81a6/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwY2xjawI6wR9leHRuA2FlbQIxMAABHQMkmX-MkEMOz2kum3g37qWyMoyJLGtA2KSM0tIDtgeYE5ljf5xd_odVyQ_aem_T3HulxQ5HdZLZdliCHySKA" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Skills:  
